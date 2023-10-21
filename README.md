@@ -66,11 +66,11 @@ This sample illustrates the following concepts:
 
 We do not support samples, but this community is always willing to help, and we want to improve these samples. We use GitHub to track issues, which makes it easy for  community members to volunteer their time and help resolve issues.
 
-If you encounter any issues while using this sample, you can [create a new issue](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
+If you encounter any issues while using this sample, you can [create a new issue](https://github.com/shaheerahmadch/Modern-Canvas-Template/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
 
-For questions regarding this sample, [create a new question](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=question.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
+For questions regarding this sample, [create a new question](https://github.com/shaheerahmadch/Modern-Canvas-Template/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=question.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
 
-Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/powerapps-samples/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
+Finally, if you have an idea for improvement, [make a suggestion](https://github.com/shaheerahmadch/Modern-Canvas-Template/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=modern-canvas-template&authors=@shaheerahmadch&title=modern-canvas-template%20-%20).
 
 ## Disclaimer
 
